@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 1px;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4 {
+        fill: #725ba7;
+      }
+
+      .cls-4 {
+        stroke-width: 0.8px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="61.47" y1="441.06" x2="413.66" y2="441.06" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7cc791"/>
+      <stop offset="0.11" stop-color="#71c488"/>
+      <stop offset="0.29" stop-color="#54bc71"/>
+      <stop offset="0.3" stop-color="#52bb6f"/>
+      <stop offset="0.52" stop-color="#0eb251"/>
+      <stop offset="0.69" stop-color="#1ab24b"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_185" data-name="Layer 185">
+    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="boob_green" data-name="boob green">
+    <path class="cls-2" d="M334.64,297.85c122.47,71,110.78,277-93,286.35C77.37,588.5-13.73,391.82,141.22,298.31a264.72,264.72,0,0,0,119.61,17.35A256.45,256.45,0,0,0,334.64,297.85Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="double_nipple" data-name="double nipple">
+    <path class="cls-3" d="M141.59,298.07a0,0,0,0,1,0,0,201.1,201.1,0,0,1,73.15-22.8c58.75-6.57,103.85,14.26,119.5,22.36a258.94,258.94,0,0,1-192.65.48Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-4" d="M184.64,283.56c-.83-15.47,23.57-21.75,34.67-13.79a9.21,9.21,0,0,1,3.31,3.82c1.11,2.58.55,2.74,1.55,3.92.1.44,4.8,1,5.32,1,4.72.83,8.87,2.21,8.57,6.21-1.76,5.42-18.75,10.74-28.51,12.38-9.28,1.94-15.54,2.76-21.68,2.59-6.45-.08-19.18-1.74-13.23-9.34,2.16-2.79,6.81-5.11,9.49-6C184.51,284.24,184.9,283.8,184.64,283.56Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-4" d="M258.13,278.29c4.14-14.93,29.27-13.1,37.25-2a9.2,9.2,0,0,1,1.93,4.68c.23,2.79-.36,2.76.22,4.2,0,.45,4.24,2.44,4.73,2.63,4.21,2.28,7.7,4.92,6.15,8.62-3.4,4.57-21.2,4.21-31,2.64-9.41-1.11-15.6-2.32-21.37-4.44-6.09-2.13-17.63-7.75-9.57-13.06,2.94-2,8.09-2.68,10.91-2.67C257.79,278.89,258.3,278.61,258.13,278.29Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+</svg>
