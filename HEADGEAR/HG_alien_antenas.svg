@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="87.59" y1="243.56" x2="113.11" y2="243.56" gradientTransform="translate(-112.88 116.82) rotate(-32.81)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7cc791"/>
+      <stop offset="0.11" stop-color="#71c488"/>
+      <stop offset="0.29" stop-color="#54bc71"/>
+      <stop offset="0.3" stop-color="#52bb6f"/>
+      <stop offset="0.52" stop-color="#0eb251"/>
+      <stop offset="0.69" stop-color="#1ab24b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="91.91" y1="188.62" x2="108.76" y2="188.62" gradientTransform="translate(-118.68 30.41) rotate(-32.81)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="363.08" y1="252.04" x2="388.62" y2="252.04" gradientTransform="matrix(0.8, 0.6, -0.6, 0.8, 222.29, -158.14)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="367.41" y1="197.1" x2="384.26" y2="197.1" gradientTransform="matrix(0.8, 0.6, -0.6, 0.8, 216.49, -244.55)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_185" data-name="Layer 185">
+    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="antenas">
+    <path class="cls-2" d="M118.08,313.38,74.15,229.7a3.13,3.13,0,0,1,1.08-4.09l2.88-1.86a3.14,3.14,0,0,1,4.19.74l57.23,75.1a3.14,3.14,0,0,1-.8,4.54l-16.18,10.43A3.13,3.13,0,0,1,118.08,313.38Z" transform="translate(-5.8 -86.41)"/>
+    <circle class="cls-3" cx="67.85" cy="134.57" r="8.43"/>
+    <path class="cls-4" d="M335.2,298.4l63-70.58a3.07,3.07,0,0,1,4.13-.42l2.83,2.11a3.09,3.09,0,0,1,.77,4.11l-50.31,80a3.09,3.09,0,0,1-4.45.83l-15.54-11.56A3.08,3.08,0,0,1,335.2,298.4Z" transform="translate(-5.8 -86.41)"/>
+    <circle class="cls-5" cx="400.38" cy="137.92" r="8.43"/>
+  </g>
+</svg>
