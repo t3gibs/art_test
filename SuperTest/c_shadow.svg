@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        opacity: 0.85;
+      }
+    </style>
+  </defs>
+  <g id="Layer_185" data-name="Layer 185">
+    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="shadow">
+    <ellipse id="shadow-2" data-name="shadow" class="cls-2" cx="236.76" cy="542.41" rx="76.64" ry="9.95"/>
+  </g>
+</svg>

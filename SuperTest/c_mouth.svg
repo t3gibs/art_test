@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_185" data-name="Layer 185">
+    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="mouth_fangs" data-name="mouth fangs">
+    <g>
+      <path class="cls-2" d="M242.56,483.08a71.5,71.5,0,0,0,22,5.53,74.17,74.17,0,0,0,36.35-6.14" transform="translate(-5.8 -86.41)"/>
+      <path class="cls-2" d="M241.47,486.15a3.19,3.19,0,0,1-2.05-4.24c.81-1.65,3.38-2.43,5.42-1.36" transform="translate(-5.8 -86.41)"/>
+    </g>
+    <polygon class="cls-3" points="248.27 400.49 249.8 407.33 252.96 401.45 248.27 400.49"/>
+    <polygon class="cls-3" points="282.9 400.49 281.37 407.33 278.21 401.45 282.9 400.49"/>
+  </g>
+</svg>
