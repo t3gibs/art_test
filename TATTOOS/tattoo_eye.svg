@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 0.88px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_185" data-name="Layer 185">
+    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="eye_tattoo" data-name="eye tattoo">
+    <path class="cls-2" d="M276.31,317.23l-4.93,4.93a14.35,14.35,0,0,0,0,20.29l5.45,5.45a2.09,2.09,0,0,0,3,0l5.08-5.22a14.35,14.35,0,0,0-.35-20.35l-5.31-5.1A2.07,2.07,0,0,0,276.31,317.23Z" transform="translate(-5.8 -86.41)"/>
+    <circle class="cls-3" cx="272.83" cy="245.83" r="1.92"/>
+  </g>
+</svg>
