@@ -1,0 +1,15 @@
+<svg id="mouth_smile" data-name="mouth smile" xmlns="http://www.w3.org/2000/svg" width="62.48" height="9.82" viewBox="0 0 62.48 9.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-1" d="M242.49,483.08a71.51,71.51,0,0,0,22,5.53,74.12,74.12,0,0,0,36.35-6.14" transform="translate(-238.57 -479.56)"/>
+    <path class="cls-1" d="M241.39,486.15a3.2,3.2,0,0,1-2-4.24c.81-1.65,3.38-2.43,5.42-1.36" transform="translate(-238.57 -479.56)"/>
+  </g>
+</svg>

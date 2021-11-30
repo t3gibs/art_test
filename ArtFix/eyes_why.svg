@@ -1,0 +1,38 @@
+<svg id="eyes_normal" data-name="eyes normal" xmlns="http://www.w3.org/2000/svg" width="144.81" height="95.83" viewBox="0 0 144.81 95.83">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <ellipse id="right_eyeball" data-name="right eyeball" class="cls-1" cx="104.3" cy="47.92" rx="40.01" ry="47.42"/>
+  <g id="right_pupil" data-name="right pupil">
+    <ellipse class="cls-2" cx="113.34" cy="45.13" rx="13.51" ry="11.87"/>
+    <ellipse class="cls-3" cx="113.34" cy="45.13" rx="13.51" ry="11.87"/>
+  </g>
+  <path id="right_speck" data-name="right speck" class="cls-4" d="M315.77,400.78l.6.61c-.88.68-1.88,1-2.21.62s.12-1.16,1-1.84,1.89-1,2.22-.63.05.82-.5,1.4Z" transform="translate(-208.32 -360.85)"/>
+  <ellipse id="left_eyeball" data-name="left eyeball" class="cls-1" cx="40.51" cy="47.92" rx="40.01" ry="47.42"/>
+  <g id="left_pupil" data-name="left pupil">
+    <ellipse class="cls-2" cx="48.1" cy="45.13" rx="13.51" ry="11.87"/>
+    <ellipse class="cls-3" cx="48.1" cy="45.13" rx="13.51" ry="11.87"/>
+  </g>
+  <path id="left_speck" data-name="left speck" class="cls-4" d="M250.84,401.13l.6.61c-.88.68-1.88,1-2.21.62s.12-1.16,1-1.84,1.89-1,2.22-.63.05.82-.5,1.4Z" transform="translate(-208.32 -360.85)"/>
+</svg>
