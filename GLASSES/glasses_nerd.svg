@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #3dbdee;
+        opacity: 0.4;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Layer_185" data-name="Layer 185">
+    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="nerd_glasses" data-name="nerd glasses">
+    <g id="Layer_38" data-name="Layer 38">
+      <rect class="cls-2" x="274.01" y="304.27" width="9.34" height="5.45"/>
+    </g>
+    <rect id="left_lens" data-name="left lens" class="cls-3" x="191.27" y="276.53" width="82.74" height="87.83"/>
+    <rect id="left_rim" data-name="left rim" class="cls-4" x="191.27" y="276.53" width="82.74" height="87.83"/>
+    <rect id="right_lens" data-name="right lens" class="cls-3" x="283.35" y="276.53" width="82.74" height="87.83"/>
+    <rect id="right_rim" data-name="right rim" class="cls-4" x="283.35" y="276.53" width="82.74" height="87.83"/>
+    <path id="left_ear" data-name="left ear" class="cls-4" d="M197.07,383.53c-32.27-23.76-64.59-30-79.47-17-2.93,2.54-6.81,11.92,4.08,14.64" transform="translate(-5.8 -86.41)"/>
+    <path id="right_ear" data-name="right ear" class="cls-4" d="M371.89,380.47c13-9.91,24.64-14.29,29.37-11,1,.72,2.15,2.09,2.42,5" transform="translate(-5.8 -86.41)"/>
+  </g>
+</svg>
