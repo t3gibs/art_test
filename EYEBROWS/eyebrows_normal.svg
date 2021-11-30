@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Layer_185" data-name="Layer 185">
+    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="eyebrows">
+    <path class="cls-2" d="M217.63,350.14a54.21,54.21,0,0,1,19.48-6,56.33,56.33,0,0,1,24.75,2.78" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-2" d="M300.61,347.52A55.64,55.64,0,0,1,345,348" transform="translate(-5.8 -86.41)"/>
+  </g>
+</svg>
