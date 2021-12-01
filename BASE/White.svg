@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 1px;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #df8e7e;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="88.83" y1="496.35" x2="404.19" y2="355.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f1ccc5"/>
+      <stop offset="0.18" stop-color="#eec1bb"/>
+      <stop offset="0.3" stop-color="#ecb7b1"/>
+      <stop offset="0.52" stop-color="#ecb7b0"/>
+      <stop offset="0.69" stop-color="#ecb5ae"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_185" data-name="Layer 185">
+    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="boob_white" data-name="boob white">
+    <path class="cls-2" d="M334.64,297.85c122.47,71,110.78,277-93,286.35C77.37,588.5-13.73,391.82,141.22,298.31a264.72,264.72,0,0,0,119.61,17.35A256.45,256.45,0,0,0,334.64,297.85Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="white_nipple" data-name="white nipple">
+    <path class="cls-3" d="M141.6,298.13s0,0,0,0a201,201,0,0,1,73.15-22.81c58.75-6.57,103.85,14.26,119.51,22.36a258.81,258.81,0,0,1-192.65.48Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-3" d="M218.33,274.19c2.42-19.24,33.87-21.55,45.77-9.28.93,1,2.82,3,3.23,5.45.79,3.42.07,3.49,1,5.17,0,.56,5.7,2.25,6.33,2.39,5.63,2.07,10.44,4.7,9.19,9.56-3.39,6.28-25.49,9.06-37.89,8.9-11.86.33-19.75-.05-27.28-1.63-7.93-1.53-23.24-6.4-14.23-14.44,3.29-3,9.54-4.79,13-5.29C218,275,218.59,274.55,218.33,274.19Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+</svg>
