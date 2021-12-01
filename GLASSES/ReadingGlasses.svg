@@ -1,52 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+<svg xmlns="http://www.w3.org/2000/svg" width="565.11" height="551.24" viewBox="0 0 565.11 551.24">
   <defs>
     <style>
-      .cls-1 {
-        fill: #231f20;
+      .cls-1, .cls-2, .cls-4, .cls-5 {
+        fill: none;
       }
 
-      .cls-2 {
-        fill: #6fccdd;
-        opacity: 0.3;
-      }
-
-      .cls-2, .cls-3, .cls-4 {
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
         stroke: #231f20;
         stroke-miterlimit: 10;
       }
 
-      .cls-2, .cls-3 {
-        stroke-width: 0.91px;
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.01px;
+      }
+
+      .cls-3 {
+        fill: #6fccdd;
+        opacity: 0.3;
       }
 
       .cls-3, .cls-4 {
-        fill: none;
+        stroke-width: 0.91px;
       }
 
-      .cls-4 {
+      .cls-5 {
         stroke-width: 0.72px;
       }
     </style>
   </defs>
-  <g id="Layer_185" data-name="Layer 185">
-    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
-    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  <g id="Layer_115" data-name="Layer 115">
+    <circle class="cls-1" cx="565.05" cy="0.06" r="0.06"/>
+    <ellipse class="cls-2" cx="0.03" cy="550.79" rx="0.02" ry="0.45"/>
   </g>
   <g id="reading_glasses" data-name="reading glasses">
-    <path id="left_glass" data-name="left glass" class="cls-2" d="M220,412.88l61.62.93c.22,0,.3.34.12.49l-10.58,8.79c-12.24,10.16-28.37,10-40.47-.41l-10.82-9.31C219.72,413.21,219.81,412.88,220,412.88Z" transform="translate(-5.8 -86.41)"/>
+    <path id="left_glass" data-name="left glass" class="cls-3" d="M220,412.88l61.62.93c.22,0,.3.34.12.49l-10.58,8.79c-12.24,10.16-28.37,10-40.47-.41l-10.82-9.31C219.72,413.21,219.81,412.88,220,412.88Z" transform="translate(43.96 -137.04)"/>
     <g id="left_lens" data-name="left lens">
-      <path class="cls-3" d="M220,412.88l61.62.93c.22,0,.3.34.12.49l-10.58,8.79c-12.24,10.16-28.37,10-40.47-.41l-10.82-9.31C219.72,413.21,219.81,412.88,220,412.88Z" transform="translate(-5.8 -86.41)"/>
+      <path class="cls-4" d="M220,412.88l61.62.93c.22,0,.3.34.12.49l-10.58,8.79c-12.24,10.16-28.37,10-40.47-.41l-10.82-9.31C219.72,413.21,219.81,412.88,220,412.88Z" transform="translate(43.96 -137.04)"/>
     </g>
-    <path id="right_glass" data-name="right glass" class="cls-2" d="M288.4,413.69l61.63.93c.21,0,.3.35.12.5l-10.59,8.79c-12.24,10.16-28.37,10-40.47-.42l-10.82-9.31C288.09,414,288.18,413.69,288.4,413.69Z" transform="translate(-5.8 -86.41)"/>
-    <path id="right_lens" data-name="right lens" class="cls-3" d="M288.4,413.69l61.63.93c.21,0,.3.35.12.5l-10.59,8.79c-12.24,10.16-28.37,10-40.47-.42l-10.82-9.31C288.09,414,288.18,413.69,288.4,413.69Z" transform="translate(-5.8 -86.41)"/>
+    <path id="right_glass" data-name="right glass" class="cls-3" d="M288.4,413.69l61.63.93c.21,0,.3.35.12.5l-10.59,8.79c-12.24,10.16-28.37,10-40.47-.42l-10.82-9.31C288.09,414,288.18,413.69,288.4,413.69Z" transform="translate(43.96 -137.04)"/>
+    <path id="right_lens" data-name="right lens" class="cls-4" d="M288.4,413.69l61.63.93c.21,0,.3.35.12.5l-10.59,8.79c-12.24,10.16-28.37,10-40.47-.42l-10.82-9.31C288.09,414,288.18,413.69,288.4,413.69Z" transform="translate(43.96 -137.04)"/>
     <g id="Layer_62" data-name="Layer 62">
-      <path class="cls-3" d="M281.26,413.81a4.75,4.75,0,0,1,3.89-1.7c3,0,3.56,1.24,4.28,1.68" transform="translate(-5.8 -86.41)"/>
+      <path class="cls-4" d="M281.26,413.81a4.75,4.75,0,0,1,3.89-1.7c3,0,3.56,1.24,4.28,1.68" transform="translate(43.96 -137.04)"/>
     </g>
     <g id="right_ear" data-name="right ear">
-      <path class="cls-3" d="M349.17,414.64c21.53-4.52,55.19-29.41,59.38-27.34,1,.51,3.46,4.21-.88,8.94" transform="translate(-5.8 -86.41)"/>
+      <path class="cls-4" d="M349.17,414.64c21.53-4.52,55.19-29.41,59.38-27.34,1,.51,3.46,4.21-.88,8.94" transform="translate(43.96 -137.04)"/>
     </g>
     <g id="Layer_64" data-name="Layer 64">
-      <path class="cls-4" d="M221,412.8c-26.5-6.24-87.9-49.55-97.75-38.46-2.79,3.14-3.19,5.91,2.34,10.47" transform="translate(-5.8 -86.41)"/>
+      <path class="cls-5" d="M221,412.8c-26.5-6.24-87.9-49.55-97.75-38.46-2.79,3.14-3.19,5.91,2.34,10.47" transform="translate(43.96 -137.04)"/>
     </g>
   </g>
 </svg>
