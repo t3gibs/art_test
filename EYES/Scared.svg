@@ -1,45 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+<svg xmlns="http://www.w3.org/2000/svg" width="565.11" height="551.24" viewBox="0 0 565.11 551.24">
   <defs>
     <style>
-      .cls-1 {
-        fill: #231f20;
+      .cls-1, .cls-2, .cls-5 {
+        fill: none;
       }
 
-      .cls-2, .cls-4 {
-        fill: #fff;
-      }
-
-      .cls-2, .cls-3, .cls-4 {
+      .cls-1, .cls-2, .cls-3, .cls-5, .cls-6 {
         stroke: #231f20;
         stroke-miterlimit: 10;
       }
 
-      .cls-3 {
-        fill: none;
-        stroke-width: 0.35px;
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.01px;
+      }
+
+      .cls-3, .cls-6 {
+        fill: #fff;
       }
 
       .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-5 {
+        stroke-width: 0.35px;
+      }
+
+      .cls-6 {
         stroke-width: 0.09px;
       }
     </style>
   </defs>
-  <g id="Layer_185" data-name="Layer 185">
-    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
-    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  <g id="Layer_115" data-name="Layer 115">
+    <circle class="cls-1" cx="565.05" cy="0.06" r="0.06"/>
+    <ellipse class="cls-2" cx="0.03" cy="550.79" rx="0.02" ry="0.45"/>
   </g>
   <g id="M_eyes_scared" data-name="M eyes scared">
-    <ellipse id="right_eyeball" data-name="right eyeball" class="cls-2" cx="318.97" cy="323.93" rx="40.01" ry="47.42"/>
+    <ellipse id="right_eyeball" data-name="right eyeball" class="cls-3" cx="368.73" cy="273.3" rx="40.01" ry="47.42"/>
     <g id="right_pupil" data-name="right pupil">
-      <ellipse class="cls-1" cx="332.11" cy="325.48" rx="4.71" ry="4.14"/>
-      <ellipse class="cls-3" cx="332.11" cy="325.48" rx="4.71" ry="4.14"/>
+      <ellipse class="cls-4" cx="381.87" cy="274.85" rx="4.71" ry="4.14"/>
+      <ellipse class="cls-5" cx="381.87" cy="274.85" rx="4.71" ry="4.14"/>
     </g>
-    <path id="right_speck" data-name="right speck" class="cls-4" d="M335.86,410.08l.21.21c-.31.24-.66.34-.77.22s0-.41.35-.64.66-.34.77-.22,0,.29-.17.49Z" transform="translate(-5.8 -86.41)"/>
-    <ellipse id="left_eyeball" data-name="left eyeball" class="cls-2" cx="233.57" cy="325.47" rx="40.01" ry="47.42"/>
+    <path id="right_speck" data-name="right speck" class="cls-6" d="M335.86,410.08l.21.21c-.31.24-.66.34-.77.22s0-.41.35-.64.66-.34.77-.22,0,.29-.17.49Z" transform="translate(43.96 -137.04)"/>
+    <ellipse id="left_eyeball" data-name="left eyeball" class="cls-3" cx="283.33" cy="274.84" rx="40.01" ry="47.42"/>
     <g id="left_pupil" data-name="left pupil">
-      <ellipse class="cls-1" cx="242.4" cy="326.02" rx="4.71" ry="4.14"/>
-      <ellipse class="cls-3" cx="242.4" cy="326.02" rx="4.71" ry="4.14"/>
+      <ellipse class="cls-4" cx="292.16" cy="275.39" rx="4.71" ry="4.14"/>
+      <ellipse class="cls-5" cx="292.16" cy="275.39" rx="4.71" ry="4.14"/>
     </g>
-    <path id="left_speck" data-name="left speck" class="cls-4" d="M246.26,410.74l.21.21c-.31.24-.66.33-.77.22s0-.41.35-.65.65-.33.77-.21,0,.28-.18.48Z" transform="translate(-5.8 -86.41)"/>
+    <path id="left_speck" data-name="left speck" class="cls-6" d="M246.26,410.74l.21.21c-.31.24-.66.33-.77.22s0-.41.35-.65.65-.33.77-.21,0,.28-.18.48Z" transform="translate(43.96 -137.04)"/>
   </g>
 </svg>
