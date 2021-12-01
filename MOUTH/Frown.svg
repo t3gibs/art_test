@@ -1,25 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+<svg xmlns="http://www.w3.org/2000/svg" width="565.11" height="551.24" viewBox="0 0 565.11 551.24">
   <defs>
     <style>
-      .cls-1 {
-        fill: #231f20;
-      }
-
-      .cls-2 {
+      .cls-1, .cls-2, .cls-3 {
         fill: none;
         stroke: #231f20;
         stroke-miterlimit: 10;
       }
+
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.01px;
+      }
     </style>
   </defs>
-  <g id="Layer_185" data-name="Layer 185">
-    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
-    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  <g id="Layer_115" data-name="Layer 115">
+    <circle class="cls-1" cx="565.05" cy="0.06" r="0.06"/>
+    <ellipse class="cls-2" cx="0.03" cy="550.79" rx="0.02" ry="0.45"/>
   </g>
   <g id="mouth_frown" data-name="mouth frown">
     <g>
-      <path class="cls-2" d="M242.49,485.86a71.51,71.51,0,0,1,22-5.53,74.24,74.24,0,0,1,36.35,6.14" transform="translate(-5.8 -86.41)"/>
-      <path class="cls-2" d="M241.39,482.79a3.2,3.2,0,0,0-2,4.24c.81,1.65,3.38,2.44,5.42,1.36" transform="translate(-5.8 -86.41)"/>
+      <path class="cls-3" d="M242.49,485.86a71.51,71.51,0,0,1,22-5.53,74.24,74.24,0,0,1,36.35,6.14" transform="translate(43.96 -137.04)"/>
+      <path class="cls-3" d="M241.39,482.79a3.2,3.2,0,0,0-2,4.24c.81,1.65,3.38,2.44,5.42,1.36" transform="translate(43.96 -137.04)"/>
     </g>
   </g>
 </svg>

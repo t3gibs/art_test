@@ -1,34 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+<svg xmlns="http://www.w3.org/2000/svg" width="565.11" height="551.24" viewBox="0 0 565.11 551.24">
   <defs>
     <style>
-      .cls-1 {
-        fill: #231f20;
-      }
-
-      .cls-2 {
+      .cls-1, .cls-2, .cls-3 {
         fill: none;
       }
 
-      .cls-2, .cls-3 {
+      .cls-1, .cls-2, .cls-3, .cls-4 {
         stroke: #231f20;
         stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.01px;
+      }
+
+      .cls-3, .cls-4 {
         stroke-width: 1.18px;
       }
 
-      .cls-3 {
+      .cls-4 {
         fill: #d32027;
       }
     </style>
   </defs>
-  <g id="Layer_185" data-name="Layer 185">
-    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
-    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  <g id="Layer_115" data-name="Layer 115">
+    <circle class="cls-1" cx="565.05" cy="0.06" r="0.06"/>
+    <ellipse class="cls-2" cx="0.03" cy="550.79" rx="0.02" ry="0.45"/>
   </g>
   <g id="mouth_tounge" data-name="mouth tounge">
-    <path id="mouth" class="cls-2" d="M239.15,478.47c10,9.19,20.32,10.41,36.07,10.81,24,.6,30.65-10.4,31.48-11.58" transform="translate(-5.8 -86.41)"/>
+    <path id="mouth" class="cls-3" d="M239.15,478.47c10,9.19,20.32,10.41,36.07,10.81,24,.6,30.65-10.4,31.48-11.58" transform="translate(43.96 -137.04)"/>
     <g id="tongue">
-      <path class="cls-3" d="M254.26,487.28c-2.13,9.93,10.45,26.65,22.92,25.5,11.41-1,18.59-26.25,14.08-25.12C272.93,492.26,254.46,486.39,254.26,487.28Z" transform="translate(-5.8 -86.41)"/>
-      <path class="cls-3" d="M276.52,504.08l.36,4.31Z" transform="translate(-5.8 -86.41)"/>
+      <path class="cls-4" d="M254.26,487.28c-2.13,9.93,10.45,26.65,22.92,25.5,11.41-1,18.59-26.25,14.08-25.12C272.93,492.26,254.46,486.39,254.26,487.28Z" transform="translate(43.96 -137.04)"/>
+      <path class="cls-4" d="M276.52,504.08l.36,4.31Z" transform="translate(43.96 -137.04)"/>
     </g>
   </g>
 </svg>

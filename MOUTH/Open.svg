@@ -1,28 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+<svg xmlns="http://www.w3.org/2000/svg" width="565.11" height="551.24" viewBox="0 0 565.11 551.24">
   <defs>
     <style>
       .cls-1, .cls-2 {
-        fill: #231f20;
+        fill: none;
       }
 
-      .cls-2, .cls-3 {
+      .cls-1, .cls-2, .cls-3, .cls-4 {
         stroke: #231f20;
         stroke-miterlimit: 10;
       }
 
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.01px;
+      }
+
       .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-4 {
         fill: #be2926;
       }
     </style>
   </defs>
-  <g id="Layer_185" data-name="Layer 185">
-    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
-    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  <g id="Layer_115" data-name="Layer 115">
+    <circle class="cls-1" cx="565.05" cy="0.06" r="0.06"/>
+    <ellipse class="cls-2" cx="0.03" cy="550.79" rx="0.02" ry="0.45"/>
   </g>
   <g id="mouth_open" data-name="mouth open">
-    <path class="cls-2" d="M235.53,518.18c10.69,22.28,69.72,21.17,79.37,0,8-17.47-13.67-57.29-42.74-55.47C245.19,464.4,227.28,501,235.53,518.18Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-3" d="M235.53,518.18c10.69,22.28,69.72,21.17,79.37,0,8-17.47-13.67-57.29-42.74-55.47C245.19,464.4,227.28,501,235.53,518.18Z" transform="translate(43.96 -137.04)"/>
     <g id="mouth_2.1" data-name="mouth 2.1">
-      <path class="cls-3" d="M316.17,510.72c1.24-7.34-80.19,0-80.64,7.46-.24,3.91,17.38,18.65,43,16.22C312.8,531.15,314.9,518.18,316.17,510.72Z" transform="translate(-5.8 -86.41)"/>
+      <path class="cls-4" d="M316.17,510.72c1.24-7.34-80.19,0-80.64,7.46-.24,3.91,17.38,18.65,43,16.22C312.8,531.15,314.9,518.18,316.17,510.72Z" transform="translate(43.96 -137.04)"/>
     </g>
   </g>
 </svg>
