@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        fill: #db2626;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #ae2527;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Layer_185" data-name="Layer 185">
+    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+  <g id="devil_horns" data-name="devil horns">
+    <path id="right_horn" data-name="right horn" class="cls-2" d="M294.54,310.05c-1.78-1.18,30.78-5.13,37-61.5.53-4.82,10,34.34.13,68.61C328.18,329.38,303.59,316.08,294.54,310.05Z" transform="translate(-5.8 -86.41)"/>
+    <path id="right_shadow" data-name="right shadow" class="cls-3" d="M295.37,310.09c-1.8-1.8,30.05-6,36.39-59.91.56-4.82,3.81,26.75-12.48,48.08C316.05,302.48,303.08,317.76,295.37,310.09Z" transform="translate(-5.8 -86.41)"/>
+    <path id="left_horn" data-name="left horn" class="cls-2" d="M175.82,309.05c-1.79-1.18,30.77-5.13,37-61.5.54-4.82,10,34.34.13,68.61C209.45,328.38,184.87,315.08,175.82,309.05Z" transform="translate(-5.8 -86.41)"/>
+    <path id="left_shadow" data-name="left shadow" class="cls-3" d="M176.68,309.1c-1.81-1.8,30.08-6.06,36.42-60,.57-4.82,3.82,26.75-12.48,48.08C197.39,301.43,184.38,316.77,176.68,309.1Z" transform="translate(-5.8 -86.41)"/>
+    <path id="right_horn-2" data-name="right horn" class="cls-4" d="M294.54,310.05c-1.78-1.18,30.78-5.13,37-61.5.53-4.82,10,34.34.13,68.61C328.18,329.38,303.59,316.08,294.54,310.05Z" transform="translate(-5.8 -86.41)"/>
+    <path id="right_horn-3" data-name="right horn" class="cls-4" d="M175.82,308.91c-1.79-1.18,30.77-5.13,37-61.5.54-4.82,10,34.34.13,68.61C209.45,328.24,184.87,314.94,175.82,308.91Z" transform="translate(-5.8 -86.41)"/>
+  </g>
+</svg>
