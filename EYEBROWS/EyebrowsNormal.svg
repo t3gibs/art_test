@@ -1,23 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="464.19" height="655.94" viewBox="0 0 464.19 655.94">
+<svg xmlns="http://www.w3.org/2000/svg" width="565.11" height="551.24" viewBox="0 0 565.11 551.24">
   <defs>
     <style>
-      .cls-1 {
-        fill: #231f20;
-      }
-
-      .cls-2 {
+      .cls-1, .cls-2, .cls-3 {
         fill: none;
         stroke: #231f20;
         stroke-miterlimit: 10;
       }
+
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.01px;
+      }
     </style>
   </defs>
-  <g id="Layer_185" data-name="Layer 185">
-    <path class="cls-1" d="M470,86.44a0,0,0,0,0,0,0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
-    <path class="cls-1" d="M5.81,742.35s0,0,0,0,0,0,0,0Z" transform="translate(-5.8 -86.41)"/>
+  <g id="Layer_115" data-name="Layer 115">
+    <circle class="cls-1" cx="565.05" cy="0.06" r="0.06"/>
+    <ellipse class="cls-2" cx="0.03" cy="550.79" rx="0.02" ry="0.45"/>
   </g>
   <g id="eyebrows">
-    <path class="cls-2" d="M217.63,350.14a54.21,54.21,0,0,1,19.48-6,56.33,56.33,0,0,1,24.75,2.78" transform="translate(-5.8 -86.41)"/>
-    <path class="cls-2" d="M300.61,347.52A55.64,55.64,0,0,1,345,348" transform="translate(-5.8 -86.41)"/>
+    <path class="cls-3" d="M217.63,350.14a54.21,54.21,0,0,1,19.48-6,56.33,56.33,0,0,1,24.75,2.78" transform="translate(43.96 -137.04)"/>
+    <path class="cls-3" d="M300.61,347.52A55.64,55.64,0,0,1,345,348" transform="translate(43.96 -137.04)"/>
   </g>
 </svg>
